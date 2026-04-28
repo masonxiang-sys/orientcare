@@ -140,7 +140,9 @@ const translations = {
     "form.language": "Idioma preferido",
     "form.message": "Necesidad médica o ciudad de destino",
     "form.submit": "Enviar solicitud",
-    "form.success": "Gracias. Hemos preparado su solicitud para que el equipo de OrientCare pueda revisarla.",
+    "form.submitting": "Enviando solicitud...",
+    "form.success": "Gracias. Su solicitud fue enviada al equipo de OrientCare.",
+    "form.error": "No pudimos enviar la solicitud. Inténtelo de nuevo o escríbanos a hello@orientcare.org.",
     "footer.note":
       "OrientCare coordina servicios de acompañamiento y no sustituye el diagnóstico ni el criterio de profesionales médicos.",
   },
@@ -285,7 +287,9 @@ const translations = {
     "form.language": "Preferred language",
     "form.message": "Medical need or destination city",
     "form.submit": "Send request",
-    "form.success": "Thank you. Your request is ready for the OrientCare team to review.",
+    "form.submitting": "Sending request...",
+    "form.success": "Thank you. Your request has been sent to the OrientCare team.",
+    "form.error": "We could not send the request. Please try again or email hello@orientcare.org.",
     "footer.note":
       "OrientCare coordinates accompaniment services and does not replace diagnosis or medical judgment from healthcare professionals.",
   },
@@ -296,6 +300,7 @@ const translatableNodes = document.querySelectorAll("[data-i18n]");
 const description = document.querySelector('meta[name="description"]');
 const form = document.querySelector("#contact-form");
 const formStatus = document.querySelector("#form-status");
+const submitButton = form?.querySelector(".form-submit");
 const year = document.querySelector("#year");
 
 function setLanguage(language) {
@@ -330,11 +335,50 @@ languageButtons.forEach((button) => {
 });
 
 if (form) {
-  form.addEventListener("submit", (event) => {
+  form.addEventListener("submit", async (event) => {
     event.preventDefault();
     const language = document.documentElement.lang === "en" ? "en" : "es";
-    formStatus.textContent = translations[language]["form.success"];
-    form.reset();
+    const dictionary = translations[language];
+    const originalLabel = submitButton?.textContent;
+
+    if (formStatus) {
+      formStatus.textContent = dictionary["form.submitting"];
+      formStatus.classList.remove("is-error");
+    }
+
+    if (submitButton) {
+      submitButton.disabled = true;
+      submitButton.textContent = dictionary["form.submitting"];
+    }
+
+    try {
+      const response = await fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: {
+          Accept: "application/json",
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error("Formspree request failed");
+      }
+
+      if (formStatus) {
+        formStatus.textContent = dictionary["form.success"];
+      }
+      form.reset();
+    } catch (error) {
+      if (formStatus) {
+        formStatus.textContent = dictionary["form.error"];
+        formStatus.classList.add("is-error");
+      }
+    } finally {
+      if (submitButton) {
+        submitButton.disabled = false;
+        submitButton.textContent = originalLabel || dictionary["form.submit"];
+      }
+    }
   });
 }
 
