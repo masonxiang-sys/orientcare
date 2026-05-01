@@ -1,0 +1,46 @@
+# OrientCare
+
+> OrientCare provides bilingual Spanish and English medical navigation, appointment coordination, and hospital accompaniment for international patients seeking medical care in China.
+
+OrientCare helps foreign nationals prepare for medical visits in China, especially in Beijing, by clarifying hospital options, appointment requirements, language needs, route planning, on-site registration, consultation support, and follow-up coordination.
+
+Spanish summary: OrientCare acompaña a pacientes internacionales de habla hispana e inglesa antes, durante y después de su atención médica en China.
+
+Primary audiences: Spanish-speaking and English-speaking international patients, families, expatriates, business travelers, and medical travelers outside China.
+
+Primary languages: Spanish and English.
+
+Contact email: hello@orientcare.org.
+
+Medical note: OrientCare coordinates medical navigation and accompaniment services. It does not provide diagnosis, treatment, emergency care, or replace the judgment of licensed medical professionals.
+
+## Core Pages
+
+- [Home](https://www.orientcare.org/): Overview of OrientCare, bilingual medical support in China, service model, and patient testimonials.
+- [About OrientCare](https://www.orientcare.org/#about): Company background, values, and role as a trusted bridge between international patients and the Chinese medical system.
+- [Services](https://www.orientcare.org/#services): Pre-visit guidance, hospital selection, appointment coordination, document preparation, in-hospital accompaniment, interpretation support, and post-visit follow-up.
+- [Hospitals](https://www.orientcare.org/#hospitals): Guide to selected Beijing hospitals and international departments for complex care, cardiovascular medicine, pediatrics, neurology, traditional Chinese medicine, and general specialties.
+- [Contact](https://www.orientcare.org/#contact): Contact form and email for medical travel inquiries in Spanish or English.
+
+## Services
+
+- [Pre-Visit Medical Navigation](https://www.orientcare.org/#services): Review patient needs, identify relevant specialties, compare hospital options, and prepare visit requirements.
+- [Appointment Coordination](https://www.orientcare.org/#services): Support appointment planning, route information, required documents, and communication before arrival.
+- [Hospital Accompaniment](https://www.orientcare.org/#services): Assistance with reception, registration, hospital navigation, and language support during the visit.
+- [Follow-Up Support](https://www.orientcare.org/#services): Help patients understand next steps, reports, prescriptions, referrals, and future appointments.
+
+## Hospital Coverage
+
+- [Peking Union Medical College Hospital International Medical Services](https://www.orientcare.org/#hospitals): Strong for complex, rare, severe, internal medicine, surgery, obstetrics and gynecology, and pediatrics.
+- [Fuwai Hospital, CAMS International Department](https://www.orientcare.org/#hospitals): National-level cardiovascular care for coronary disease, arrhythmia, hypertension, heart failure, and cardiac surgery.
+- [China-Japan Friendship Hospital International Department](https://www.orientcare.org/#hospitals): International services with respiratory medicine, dermatology, obstetrics and gynecology, digestive endoscopy, and multidisciplinary care.
+- [Beijing Friendship Hospital International Medical Center](https://www.orientcare.org/#hospitals): International medical services, health checkups, digestive and liver care, oncology, nutrition, and rehabilitation.
+- [Beijing Tiantan Hospital International Department](https://www.orientcare.org/#hospitals): Known for neurosurgery, neurology, neuro-oncology, cerebrovascular disease, ICU, and interventional care.
+- [Beijing Children's Hospital International Medical Department](https://www.orientcare.org/#hospitals): High-end pediatric services including pediatric hematology, oncology, neurology, neonatology, and respiratory care.
+- [Guang'anmen Hospital International Medical Department](https://www.orientcare.org/#hospitals): Traditional Chinese medicine services including TCM oncology, dermatology, anorectal care, endocrinology, gynecology, and pediatrics.
+- [Peking University International Hospital](https://www.orientcare.org/#hospitals): Non-profit general hospital with international medicine, oncology, women and children's care, emergency care, ICU, geriatrics, and MDT services.
+- [Beijing Chaoyang Hospital International Medical Department](https://www.orientcare.org/#hospitals): International medical services covering respiratory medicine, obstetrics and gynecology, painless endoscopy, hyperbaric oxygen, and MDT care.
+
+## Optional
+
+- [Email OrientCare](mailto:hello@orientcare.org): Direct contact for partnership, patient navigation, and medical travel service inquiries.
