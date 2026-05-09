@@ -118,6 +118,9 @@ textarea {
 }
 
 .lang-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 56px;
   min-height: 38px;
   border: 0;
@@ -125,6 +128,7 @@ textarea {
   background: transparent;
   cursor: pointer;
   font-weight: 800;
+  text-decoration: none;
 }
 
 .lang-button.is-active {

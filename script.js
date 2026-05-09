@@ -296,42 +296,15 @@ const translations = {
 };
 
 const languageButtons = document.querySelectorAll(".lang-button");
-const translatableNodes = document.querySelectorAll("[data-i18n]");
-const description = document.querySelector('meta[name="description"]');
 const form = document.querySelector("#contact-form");
 const formStatus = document.querySelector("#form-status");
 const submitButton = form?.querySelector(".form-submit");
 const year = document.querySelector("#year");
 
-function setLanguage(language) {
-  const dictionary = translations[language] || translations.es;
-
-  document.documentElement.lang = language;
-  document.title = dictionary.metaTitle;
-  description.setAttribute("content", dictionary.metaDescription);
-
-  translatableNodes.forEach((node) => {
-    const key = node.getAttribute("data-i18n");
-    if (dictionary[key]) {
-      node.textContent = dictionary[key];
-    }
-  });
-
-  languageButtons.forEach((button) => {
-    const isActive = button.dataset.lang === language;
-    button.classList.toggle("is-active", isActive);
-    button.setAttribute("aria-pressed", String(isActive));
-  });
-
-  if (formStatus) {
-    formStatus.textContent = "";
-  }
-
-  localStorage.setItem("orientcare-language", language);
-}
-
 languageButtons.forEach((button) => {
-  button.addEventListener("click", () => setLanguage(button.dataset.lang));
+  const isActive = button.getAttribute("hreflang") === document.documentElement.lang;
+  button.classList.toggle("is-active", isActive);
+  button.setAttribute("aria-current", isActive ? "page" : "false");
 });
 
 if (form) {
@@ -385,6 +358,3 @@ if (form) {
 if (year) {
   year.textContent = new Date().getFullYear();
 }
-
-const savedLanguage = localStorage.getItem("orientcare-language");
-setLanguage(savedLanguage === "en" ? "en" : "es");
