@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.orientcare.org/es/</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/" />
@@ -11,11 +11,119 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/cardiologia/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/cardiology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/cardiology/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/cardiology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/pediatria/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/pediatria/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/pediatrics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/pediatria/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/pediatrics/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/pediatria/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/pediatrics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/pediatria/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/neurologia/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/neurologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/neurology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/neurologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/neurology/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/neurologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/neurology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/neurologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/oncologia/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/oncologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/oncology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/oncologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/oncology/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/oncologia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/oncology/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/oncologia/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/respiratorio/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/respiratory-care/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/respiratory-care/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/respiratory-care/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/especialidades/digestivo-higado/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/digestive-liver-care/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/specialties/digestive-liver-care/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/digestive-liver-care/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
   </url>
 </urlset>
