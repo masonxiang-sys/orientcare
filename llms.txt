@@ -53,6 +53,17 @@ Last updated: 2026-05-18.
 - [Privacidad](https://www.orientcare.org/es/privacidad/): Spanish privacy page for inquiry details, medical documents, consent, sharing, and deletion requests.
 - [Privacy policy](https://www.orientcare.org/en/privacy/): English privacy page for inquiry details, medical documents, consent, sharing, and deletion requests.
 
+## Process Guides
+
+- [Preparar documentos médicos para China](https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/): Spanish guide to organizing medical reports, imaging, medications, and questions before requesting a hospital appointment in China.
+- [Prepare medical documents for China](https://www.orientcare.org/en/guides/prepare-medical-documents-china/): English guide to organizing medical reports, imaging, medications, and questions before requesting a hospital appointment in China.
+- [Proceso en hospitales internacionales de Beijing](https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/): Spanish guide to registration, payment, consultation, tests, and follow-up flow in Beijing international hospital departments.
+- [Beijing international hospital visit process](https://www.orientcare.org/en/guides/beijing-international-hospital-visit-process/): English guide to registration, payment, consultation, tests, and follow-up flow in Beijing international hospital departments.
+- [Traducción y acompañamiento médico en China](https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/): Spanish guide to language support, hospital navigation, accompaniment scope, and service boundaries.
+- [Medical interpreter and accompaniment in China](https://www.orientcare.org/en/guides/medical-interpreter-accompaniment-china/): English guide to language support, hospital navigation, accompaniment scope, and service boundaries.
+- [Viaje médico a China: preguntas frecuentes](https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/): Spanish FAQ guide covering costs, payments, appointments, language, documents, and follow-up.
+- [Medical travel to China FAQ](https://www.orientcare.org/en/guides/medical-travel-china-faq/): English FAQ guide covering costs, payments, appointments, language, documents, and follow-up.
+
 ## Hospital Coverage
 
 - [Peking Union Medical College Hospital International Medical Services](https://www.orientcare.org/es/#hospitals): Complex, rare, severe, internal medicine, surgery, obstetrics and gynecology, and pediatrics.

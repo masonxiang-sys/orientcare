@@ -198,4 +198,76 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/privacy/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/privacidad/" />
   </url>
+  <url>
+    <loc>https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/prepare-medical-documents-china/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/guides/prepare-medical-documents-china/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/prepare-medical-documents-china/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/beijing-international-hospital-visit-process/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/guides/beijing-international-hospital-visit-process/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/beijing-international-hospital-visit-process/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/medical-interpreter-accompaniment-china/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/guides/medical-interpreter-accompaniment-china/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/medical-interpreter-accompaniment-china/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/medical-travel-china-faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/guides/medical-travel-china-faq/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/medical-travel-china-faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
+  </url>
 </urlset>
