@@ -939,6 +939,15 @@ h3 {
   gap: 8px 14px;
 }
 
+.footer-links span {
+  flex-basis: 100%;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 .footer-links a {
   color: var(--blue-800);
   font-weight: 800;

@@ -126,4 +126,76 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/specialties/digestive-liver-care/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
   </url>
+  <url>
+    <loc>https://www.orientcare.org/es/sobre-orientcare/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/sobre-orientcare/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/about-orientcare/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/sobre-orientcare/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/about-orientcare/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/sobre-orientcare/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/about-orientcare/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/sobre-orientcare/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/como-trabajamos/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/como-trabajamos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/how-we-work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/como-trabajamos/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/how-we-work/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/como-trabajamos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/how-we-work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/como-trabajamos/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/aviso-medico/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/aviso-medico/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/medical-disclaimer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/aviso-medico/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/medical-disclaimer/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.66</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/aviso-medico/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/medical-disclaimer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/aviso-medico/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/privacidad/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/privacidad/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/privacidad/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/privacy/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.66</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/privacidad/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/privacidad/" />
+  </url>
 </urlset>

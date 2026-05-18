@@ -42,6 +42,17 @@ Last updated: 2026-05-18.
 - [Respiratory care in Beijing](https://www.orientcare.org/en/specialties/respiratory-care/): Respiratory care preparation, symptom and imaging organization, related hospitals, FAQ, and emergency-care boundary notes.
 - [Digestive and liver care in Beijing](https://www.orientcare.org/en/specialties/digestive-liver-care/): Digestive and liver consultation preparation, endoscopy/imaging/lab document guidance, related hospitals, FAQ, and coordination scope.
 
+## Trust, Process, and Policy Pages
+
+- [Sobre OrientCare](https://www.orientcare.org/es/sobre-orientcare/): Spanish page explaining OrientCare's role, patient support model, service boundaries, and non-clinical coordination scope.
+- [About OrientCare](https://www.orientcare.org/en/about-orientcare/): English page explaining OrientCare's role, patient support model, service boundaries, and non-clinical coordination scope.
+- [Cómo trabajamos](https://www.orientcare.org/es/como-trabajamos/): Spanish step-by-step process for documents, appointment coordination, accompaniment, and follow-up support.
+- [How we work](https://www.orientcare.org/en/how-we-work/): English step-by-step process for documents, appointment coordination, accompaniment, and follow-up support.
+- [Aviso médico](https://www.orientcare.org/es/aviso-medico/): Spanish medical disclaimer clarifying that OrientCare does not diagnose, treat, prescribe, or provide emergency care.
+- [Medical disclaimer](https://www.orientcare.org/en/medical-disclaimer/): English medical disclaimer clarifying that OrientCare does not diagnose, treat, prescribe, or provide emergency care.
+- [Privacidad](https://www.orientcare.org/es/privacidad/): Spanish privacy page for inquiry details, medical documents, consent, sharing, and deletion requests.
+- [Privacy policy](https://www.orientcare.org/en/privacy/): English privacy page for inquiry details, medical documents, consent, sharing, and deletion requests.
+
 ## Hospital Coverage
 
 - [Peking Union Medical College Hospital International Medical Services](https://www.orientcare.org/es/#hospitals): Complex, rare, severe, internal medicine, surgery, obstetrics and gynecology, and pediatrics.
