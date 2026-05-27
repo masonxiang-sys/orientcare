@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.orientcare.org/es/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/" />
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/" />
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/cardiologia/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/cardiology/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/cardiologia/" />
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/pediatria/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/pediatria/" />
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/pediatrics/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/pediatria/" />
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/neurologia/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/neurologia/" />
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/neurology/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/neurologia/" />
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/oncologia/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/oncologia/" />
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/oncology/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/oncologia/" />
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/respiratorio/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
@@ -101,7 +101,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/respiratory-care/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/respiratorio/" />
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/especialidades/digestivo-higado/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/specialties/digestive-liver-care/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/especialidades/digestivo-higado/" />
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/sobre-orientcare/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/sobre-orientcare/" />
@@ -137,7 +137,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/about-orientcare/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/sobre-orientcare/" />
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/como-trabajamos/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.72</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/como-trabajamos/" />
@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/how-we-work/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/como-trabajamos/" />
@@ -164,7 +164,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/aviso-medico/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.68</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/aviso-medico/" />
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/medical-disclaimer/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.66</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/aviso-medico/" />
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/privacidad/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.68</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/privacidad/" />
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/privacy/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.66</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/privacidad/" />
@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.76</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
@@ -209,7 +209,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/guides/prepare-medical-documents-china/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.74</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preparar-documentos-medicos-china/" />
@@ -218,7 +218,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.76</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
@@ -227,7 +227,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/guides/beijing-international-hospital-visit-process/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.74</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/proceso-hospital-internacional-beijing/" />
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.76</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
@@ -245,7 +245,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/guides/medical-interpreter-accompaniment-china/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.74</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/traduccion-acompanamiento-medico-china/" />
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.76</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
@@ -263,11 +263,281 @@
   </url>
   <url>
     <loc>https://www.orientcare.org/en/guides/medical-travel-china-faq/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.74</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/guides/medical-travel-china-faq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/peking-union-medical-college-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-union-medical-college-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-union-medical-college-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-union-medical-college-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/peking-union-medical-college-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-union-medical-college-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-union-medical-college-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-union-medical-college-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/china-japan-friendship-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/china-japan-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/china-japan-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/china-japan-friendship-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/china-japan-friendship-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/china-japan-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/china-japan-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/china-japan-friendship-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/beijing-friendship-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-friendship-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/beijing-friendship-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-friendship-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-friendship-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/beijing-tiantan-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tiantan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-tiantan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tiantan-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/beijing-tiantan-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tiantan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-tiantan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tiantan-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/guanganmen-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/guanganmen-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/guanganmen-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/guanganmen-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/guanganmen-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/guanganmen-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/guanganmen-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/guanganmen-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/fuwai-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/fuwai-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/fuwai-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/fuwai-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/fuwai-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/fuwai-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/fuwai-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/fuwai-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/peking-university-peoples-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-peoples-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-peoples-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-peoples-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/peking-university-peoples-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-peoples-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-peoples-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-peoples-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/peking-university-third-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-third-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-third-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-third-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/peking-university-third-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-third-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-third-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-third-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/xuanwu-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/xuanwu-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/xuanwu-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/xuanwu-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/xuanwu-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/xuanwu-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/xuanwu-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/xuanwu-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/beijing-chaoyang-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-chaoyang-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-chaoyang-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-chaoyang-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/beijing-chaoyang-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-chaoyang-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-chaoyang-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-chaoyang-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/beijing-jishuitan-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-jishuitan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-jishuitan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-jishuitan-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/beijing-jishuitan-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-jishuitan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-jishuitan-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-jishuitan-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/beijing-tsinghua-changgung-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tsinghua-changgung-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-tsinghua-changgung-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tsinghua-changgung-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/beijing-tsinghua-changgung-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tsinghua-changgung-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/beijing-tsinghua-changgung-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/beijing-tsinghua-changgung-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/es/hospitales/beijing/peking-university-international-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-international-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-international-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-international-hospital/" />
+  </url>
+  <url>
+    <loc>https://www.orientcare.org/en/hospitals/beijing/peking-university-international-hospital/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.68</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-international-hospital/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.orientcare.org/en/hospitals/beijing/peking-university-international-hospital/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.orientcare.org/es/hospitales/beijing/peking-university-international-hospital/" />
   </url>
 </urlset>

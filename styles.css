@@ -700,6 +700,110 @@ h3 {
   font-weight: 800;
 }
 
+.hospital-directory-section {
+  padding-top: 64px;
+}
+
+.hospital-city-grid a {
+  display: grid;
+  gap: 8px;
+  align-items: center;
+}
+
+.hospital-city-grid small {
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.hospital-index-card h3 a {
+  color: var(--blue-900);
+}
+
+.hospital-logo-fallback {
+  color: var(--blue-800);
+  font-size: 1.45rem;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.hospital-hero-grid {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.hospital-hero-grid .hospital-logo {
+  min-height: 132px;
+}
+
+.hospital-facts {
+  display: grid;
+  gap: 18px;
+  margin: 0;
+}
+
+.hospital-facts div {
+  display: grid;
+  grid-template-columns: minmax(130px, 0.34fr) minmax(0, 1fr);
+  gap: 18px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+.hospital-facts div:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.hospital-facts dt {
+  color: var(--blue-900);
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.hospital-facts dd {
+  margin: 0;
+  color: var(--muted);
+}
+
+.hospital-detail-tags {
+  margin-top: 22px;
+}
+
+.hospital-specialty-index {
+  padding-top: 64px;
+}
+
+.hospital-specialty-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.hospital-specialty-group {
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  box-shadow: 0 10px 30px rgba(7, 49, 111, 0.06);
+}
+
+.hospital-specialty-group h3 {
+  margin-bottom: 16px;
+}
+
+.compact-link-list {
+  display: grid;
+  gap: 10px;
+}
+
+.compact-link-list a {
+  color: var(--blue-800);
+  font-weight: 800;
+}
+
 .faq-section {
   padding-top: 64px;
 }
@@ -980,6 +1084,7 @@ h3 {
   .values-grid,
   .service-grid,
   .specialty-link-grid,
+  .hospital-specialty-grid,
   .testimonial-grid,
   .process-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1076,6 +1181,7 @@ h3 {
   .values-grid,
   .service-grid,
   .specialty-link-grid,
+  .hospital-specialty-grid,
   .testimonial-grid,
   .process-list {
     grid-template-columns: 1fr;
@@ -1125,9 +1231,19 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .hospital-hero-grid {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
   .hospital-logo {
     justify-content: flex-start;
     min-height: 84px;
+  }
+
+  .hospital-facts div {
+    grid-template-columns: 1fr;
+    gap: 6px;
   }
 
   .process-inner {

@@ -14,14 +14,15 @@ Contact email: hello@orientcare.org.
 
 Medical note: OrientCare coordinates medical navigation and accompaniment services. It does not provide diagnosis, treatment, emergency care, or replace the judgment of licensed medical professionals.
 
-Last updated: 2026-05-18.
+Last updated: 2026-05-27.
 
 ## Core Pages
 
 - [Spanish home](https://www.orientcare.org/es/): Spanish overview of OrientCare, bilingual medical support in China, service model, hospital examples, specialty routes, and contact options.
 - [English home](https://www.orientcare.org/en/): English overview of OrientCare, bilingual medical support in China, service model, hospital examples, specialty routes, and contact options.
 - [Services](https://www.orientcare.org/es/#services): Pre-visit guidance, hospital selection, appointment coordination, document preparation, in-hospital accompaniment, interpretation support, and post-visit follow-up.
-- [Hospitals](https://www.orientcare.org/es/#hospitals): Selected Beijing hospitals and international departments for complex care, cardiovascular medicine, pediatrics, neurology, oncology, respiratory care, digestive and liver care, traditional Chinese medicine, and general specialties.
+- [Hospital index](https://www.orientcare.org/en/hospitals/): English hospital directory for international patients, starting with Beijing official-source hospital profiles.
+- [Índice de hospitales](https://www.orientcare.org/es/hospitales/): Directorio en español de hospitales para pacientes internacionales, comenzando con perfiles de Beijing con fuente oficial.
 - [Contact](https://www.orientcare.org/es/#contact): Contact form and email for medical travel inquiries in Spanish or English.
 
 ## Specialty Pages - Spanish
@@ -64,17 +65,28 @@ Last updated: 2026-05-18.
 - [Viaje médico a China: preguntas frecuentes](https://www.orientcare.org/es/guias/preguntas-viaje-medico-china/): Spanish FAQ guide covering costs, payments, appointments, language, documents, and follow-up.
 - [Medical travel to China FAQ](https://www.orientcare.org/en/guides/medical-travel-china-faq/): English FAQ guide covering costs, payments, appointments, language, documents, and follow-up.
 
+## Hospital Index Pages
+
+- [China hospital index](https://www.orientcare.org/en/hospitals/): English index of Chinese hospitals with public international-service information.
+- [Índice de hospitales en China](https://www.orientcare.org/es/hospitales/): Spanish index of Chinese hospitals with public international-service information.
+- [Beijing hospitals with international services](https://www.orientcare.org/en/hospitals/beijing/): English directory of Beijing hospitals with international departments, languages, addresses, appointment channels, and source links.
+- [Hospitales de Beijing con servicios internacionales](https://www.orientcare.org/es/hospitales/beijing/): Spanish directory of Beijing hospitals with international departments, languages, addresses, appointment channels, and source links.
+
 ## Hospital Coverage
 
-- [Peking Union Medical College Hospital International Medical Services](https://www.orientcare.org/es/#hospitals): Complex, rare, severe, internal medicine, surgery, obstetrics and gynecology, and pediatrics.
-- [Fuwai Hospital, CAMS International Department](https://www.orientcare.org/es/#hospitals): Cardiovascular care for coronary disease, arrhythmia, hypertension, heart failure, and cardiac surgery.
-- [China-Japan Friendship Hospital International Department](https://www.orientcare.org/es/#hospitals): Respiratory medicine, dermatology, obstetrics and gynecology, digestive endoscopy, and multidisciplinary care.
-- [Beijing Friendship Hospital International Medical Center](https://www.orientcare.org/es/#hospitals): International medical services, health checkups, digestive and liver care, oncology, nutrition, and rehabilitation.
-- [Beijing Tiantan Hospital International Department](https://www.orientcare.org/es/#hospitals): Neurosurgery, neurology, neuro-oncology, cerebrovascular disease, ICU, and interventional care.
-- [Beijing Children's Hospital International Medical Department](https://www.orientcare.org/es/#hospitals): Pediatric hematology, oncology, neurology, neonatology, and respiratory care.
-- [Guang'anmen Hospital International Medical Department](https://www.orientcare.org/es/#hospitals): Traditional Chinese medicine services including TCM oncology, dermatology, anorectal care, endocrinology, gynecology, and pediatrics.
-- [Peking University International Hospital](https://www.orientcare.org/es/#hospitals): International medicine, oncology, women and children's care, emergency care, ICU, geriatrics, and MDT services.
-- [Beijing Chaoyang Hospital International Medical Department](https://www.orientcare.org/es/#hospitals): Respiratory medicine, obstetrics and gynecology, painless endoscopy, hyperbaric oxygen, and MDT care.
+- [Peking Union Medical College Hospital](https://www.orientcare.org/en/hospitals/beijing/peking-union-medical-college-hospital/): International Medical Services (IMS); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Complex cases, Internal medicine, Surgery, Obstetrics and gynecology.
+- [China-Japan Friendship Hospital](https://www.orientcare.org/en/hospitals/beijing/china-japan-friendship-hospital/): International Department; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Respiratory medicine, Integrative medicine, Organ transplantation, Tumor treatment.
+- [Beijing Friendship Hospital](https://www.orientcare.org/en/hospitals/beijing/beijing-friendship-hospital/): International Medical Center; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Digestive disease, Liver disease, General surgery, Infectious disease.
+- [Beijing Tiantan Hospital](https://www.orientcare.org/en/hospitals/beijing/beijing-tiantan-hospital/): International Medical Center; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Neurosurgery, Neurology, Neuropsychology, Neurological intervention.
+- [Guang'anmen Hospital](https://www.orientcare.org/en/hospitals/beijing/guanganmen-hospital/): International Medical Department (IMD); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Traditional Chinese Medicine, TCM oncology, Dermatology, Anorectal disease.
+- [Fuwai Hospital](https://www.orientcare.org/en/hospitals/beijing/fuwai-hospital/): International Medical Department (IMD); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Cardiology, Cardiac surgery, Coronary heart disease, Arrhythmia.
+- [Peking University People's Hospital](https://www.orientcare.org/en/hospitals/beijing/peking-university-peoples-hospital/): Department of International Medical Services; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Hematology, Thoracic surgery, Rheumatology, Obstetrics and gynecology.
+- [Peking University Third Hospital](https://www.orientcare.org/en/hospitals/beijing/peking-university-third-hospital/): International Medical Service (IMS); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Sports medicine, Orthopedics, Rehabilitation medicine, Reproductive medicine.
+- [Xuanwu Hospital, Capital Medical University](https://www.orientcare.org/en/hospitals/beijing/xuanwu-hospital/): International Medical Department (IMD); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Neurology, Neurosurgery, Neurointervention, Rehabilitation medicine.
+- [Beijing Chao-yang Hospital, Capital Medical University](https://www.orientcare.org/en/hospitals/beijing/beijing-chaoyang-hospital/): International Medical Department; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Respiratory medicine, Obstetrics and gynecology, Cardiovascular diseases, General and specialist surgery.
+- [Beijing Jishuitan Hospital, Capital Medical University](https://www.orientcare.org/en/hospitals/beijing/beijing-jishuitan-hospital/): VIP Clinic and International Medical Service Department; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Orthopedics, Hand surgery, Burn surgery, Sports medicine.
+- [Beijing Tsinghua Changgung Hospital](https://www.orientcare.org/en/hospitals/beijing/beijing-tsinghua-changgung-hospital/): Department of International Medical Services; source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Hepato-pancreato-biliary center, Organ transplantation, Cardiovascular center, Gastroenterology center.
+- [Peking University International Hospital](https://www.orientcare.org/en/hospitals/beijing/peking-university-international-hospital/): International Medical Services (IMS); source-linked Beijing profile covering languages, address, appointment channels, emergency note, and specialties such as Tumors, General practice, Palliative care, Liver diseases.
 
 ## Optional
 
